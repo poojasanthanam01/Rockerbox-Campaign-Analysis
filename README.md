@@ -20,11 +20,12 @@ Using simulated user-level marketing data, I conducted:
 
 | File | Description |
 |------|-------------|
-| `rockerbox_incrementality_dataset.csv` | Simulated user-level data for incrementality test |
-| `rockerbox_incrementality_pythoncode.ipynb` | Python notebook with aggregation, analysis, and chart exports |
-| `rockerbox_channel_efficiency_raw.csv` | Simulated user-level data for multi-channel performance |
-| `rockerbox_channel_efficiency_pythoncode.ipynb` | Notebook analyzing ROAS and plotting a spend vs revenue bubble chart |
-| `PoojaSanthanam_Rockerbox_CampaignAnalysis.pdf` | Final slide summary with visuals and strategic insights |
+| [`rockerbox_incrementality_dataset.csv`](./rockerbox_incrementality_dataset.csv) | Simulated user-level data for incrementality test |
+| [`rockerbox_incrementality_pythoncode.ipynb`](./rockerbox_incrementality_pythoncode.ipynb) | Python notebook with aggregation, analysis, and chart exports |
+| [`rockerbox_channel_efficiency_raw.csv`](./rockerbox_channel_efficiency_raw.csv) | Simulated user-level data for multi-channel performance |
+| [`rockerbox_channel_efficiency_pythoncode.ipynb`](./rockerbox_channel_efficiency_pythoncode.ipynb) | Notebook analyzing ROAS and plotting a spend vs revenue bubble chart |
+| [`PoojaSanthanam_Rockerbox_CampaignAnalysis.pdf`](./PoojaSanthanam_Rockerbox_CampaignAnalysis.pdf) | Final slide summary with visuals and strategic insights |
+
 
 ---
 
