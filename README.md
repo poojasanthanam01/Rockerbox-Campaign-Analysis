@@ -47,7 +47,7 @@ Using simulated user-level marketing data, I conducted:
 
 ## View PDF Slide
 
-📎 [Campaign Analysis Presentation (PDF)](./PoojaSanthanam_Rockerbox_CampaignAnalysis.pdf)
+[Campaign Analysis Presentation (PDF)](./PoojaSanthanam_Rockerbox_CampaignAnalysis.pdf)
 
 ---
 
