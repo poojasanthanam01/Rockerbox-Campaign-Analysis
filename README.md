@@ -1,10 +1,10 @@
-# 📊 Rockerbox-Campaign-Analysis
+# Rockerbox-Campaign-Analysis
 
 This repository showcases two data-driven case studies simulating Rockerbox’s core value proposition—measuring marketing impact and optimizing spend through incrementality testing and channel efficiency analysis.
 
 ---
 
-## 📌 Overview
+## Overview
 
 Using simulated user-level marketing data, I conducted:
 
@@ -16,7 +16,7 @@ Using simulated user-level marketing data, I conducted:
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -29,7 +29,7 @@ Using simulated user-level marketing data, I conducted:
 
 ---
 
-## 🧠 Tools Used
+## Tools Used
 
 - **Python (Pandas, Matplotlib, Seaborn)**
 - **Jupyter Notebook**
@@ -37,7 +37,7 @@ Using simulated user-level marketing data, I conducted:
 
 ---
 
-## 📝 Highlights
+## Highlights
 
 - Identified a **36% lift in conversion** and **8% lift in revenue** from TikTok ad exposure using incrementality testing.
 - Recommended **budget reallocation** to higher-performing channels (Email and TikTok) based on ROAS metrics.
@@ -45,7 +45,7 @@ Using simulated user-level marketing data, I conducted:
 
 ---
 
-## 🔗 View PDF Slide
+## View PDF Slide
 
 📎 [Campaign Analysis Presentation (PDF)](./PoojaSanthanam_Rockerbox_CampaignAnalysis.pdf)
 
